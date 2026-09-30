@@ -22,12 +22,14 @@
 
 ## 👨‍🎓 Informasi Mahasiswa
 
-| Detail            | Keterangan               |
-| :---------------- | :----------------------- |
-| **Nama**          | **Jakir Apriyan**        |
-| **NIM**           | `2406004`                |
-| **Kelas / Prodi** | Teknik Informatika - ITG |
-| **Kode MK**       | IFRWP5151                |
+| Detail             | Keterangan                |
+| :----------------- | :------------------------ |
+| **Nama**           | **Jakir Apriyan**         |
+| **NIM**            | `2406004`                 |
+| **Kelas / Prodi**  | Teknik Informatika - ITG  |
+| **Kode MK**        | IFRWP5151                 |
+| **Mata Kuliah**    | Praktikum Pemrograman Web |
+| **Dosen Pengampu** | Ade Sutedi, S.T., M.Kom.  |
 
 ---
 
