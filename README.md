@@ -139,8 +139,7 @@ praktikum-web2026/
 ## ✉️ Kontak & Lisensi
 
 - **Penulis:** Jakir Apriyan
-- **GitHub:** [@Jakir-Apriyan](https://github.com/Jakir-Apriyan)
-- **Lisensi:** Diterbitkan di bawah [MIT License](LICENSE).
+- **GitHub:** [@jakir442](https://github.com/jakir442)
 
 <div align="center">
   <sub>Dibuat untuk memenuhi Tugas Praktikum Pemrograman Web (IFRWP5151) — <b>Teknik Informatika ITG</b></sub>
