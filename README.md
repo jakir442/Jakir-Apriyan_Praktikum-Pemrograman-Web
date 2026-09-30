@@ -31,11 +31,22 @@
 | **Mata Kuliah**    | Praktikum Pemrograman Web |
 | **Dosen Pengampu** | Ade Sutedi, S.T., M.Kom.  |
 
+### Spesifikasi Perangkat
+
+- **Sistem Operasi:** Windows 11 Home 64-bit
+- **Kapasitas RAM:** 8 GB DDR4
+- **Processor:** Intel Celeron
+- **Versi Node.js:** v22.18.0
+- **Versi Git:** v2.37.3.windows.1
+- **Versi VS Code:** 1.139.1
+- **Database / Local Server:** Laragon (MySQL Port 3306)
+
 ---
 
 ## 📑 Daftar Isi
 
 - [Informasi Mahasiswa](#-informasi-mahasiswa)
+    - [Spesifikasi Perangkat](#spesifikasi-perangkat)
 - [Langkah 4: Membuat File Dokumentasi Repositori](#-langkah-4-membuat-file-dokumentasi-repositori)
 - [Catatan Modul 1](#-catatan-modul-1)
 - [Teknologi & Environment](#-teknologi--environment)
